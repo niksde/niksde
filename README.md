@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🟢 Available for remote work
+### 🟢 Can Join immediately (at Pune)
 
 - 🔭 I’m currently working on modern web technologies
 
