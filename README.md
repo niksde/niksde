@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🟢 Can Join immediately (at Pune)
+### Loading...
 
 - 🔭 I’m currently working on modern web technologies
 
