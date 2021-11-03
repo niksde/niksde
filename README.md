@@ -1,7 +1,15 @@
 ### Hello there 👋
-### Loading...
 
-- 🔭 I’m currently working on modern web technologies
+## About
+Software Engineering professional with a B.E focused in Computer Science from Dr. D. Y. Patil Institute of Engineering & Technology, Pune.
+
+## Experience
+Development, Deployment and Maintenance of
+- Frontend web applications made with react, threejs.
+- Backend API on AWS cloud made with python, docker, js, lambda, dynamodb, appsync.
+
+Design, Development of
+- Backend API using nodejs, AWS, lambda, dynamodb, s3 and serverless framework.
 
 <!--
 **NikhilShisode/NikhilShisode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
