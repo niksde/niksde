@@ -1,15 +1,15 @@
 ### Hello there 👋
 
 ## About
-Software Engineering professional with a B.E focused in Computer Science from Dr. D. Y. Patil Institute of Engineering & Technology, Pune.
+2+ years experience of working in the information technology industry as a full stack developer. Strong consultant professional with a Bachelor of Engineering focused in Computer Science from Dr. D. Y. Patil Institute of Engineering & Technology, Pune.
 
 ## Experience
 Development, Deployment and Maintenance of
-- Frontend web applications made with react, threejs.
-- Backend API on AWS cloud made with python, docker, js, lambda, dynamodb, appsync.
+- Frontend web applications made with ReactJS, ReduxJS, Threejs.
+- Backend API on AWS cloud made with Python, Docker, js, AWS Lambda, AWS Dynamodb, AWS Appsync.
 
 Design, Development of
-- Backend API using nodejs, AWS, lambda, dynamodb, s3 and serverless framework.
+- Backend API using Nodejs, AWS Lambda, AWS Dynamodb, AWS S3 and serverless framework.
 
 <!--
 **NikhilShisode/NikhilShisode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
