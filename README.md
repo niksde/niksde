@@ -1,12 +1,12 @@
 ### Hello there 👋
 
 ## About
-2+ years experience of working in the information technology industry as a full stack developer. Strong consultant professional with a Bachelor of Engineering focused in Computer Science from Dr. D. Y. Patil Institute of Engineering & Technology, Pune.
+Experienced software engineer with a background of building scalable systems in the mechanical industry.
 
 ## Experience
 Development, Deployment and Maintenance of
-- Frontend web applications made with ReactJS, ReduxJS, Threejs.
-- Backend API on AWS cloud made with Python, Docker, js, AWS Lambda, AWS Dynamodb, AWS Appsync.
+- Frontend web applications made with React, Redux.
+- Backend API on AWS cloud made with Javascript, Typescript, Python, Docker, AWS Lambda, AWS Dynamodb, AWS Appsync.
 
 Design, Development of
 - Backend API using Nodejs, AWS Lambda, AWS Dynamodb, AWS S3 and serverless framework.
