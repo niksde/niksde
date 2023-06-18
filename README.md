@@ -1,18 +1,17 @@
 ### Hello there 👋
 
 ## About
-Experienced software engineer with a background of building scalable systems in the mechanical industry.
+Experienced software engineer with a background of building scalable systems in the data analytics and AEC industries.
 
-## Experience
-Development, Deployment and Maintenance of
-- Frontend web applications made with React, Redux.
-- Backend API on AWS cloud made with Javascript, Typescript, Python, Docker, AWS Lambda, AWS Dynamodb, AWS Appsync.
+## Skills
+- Coding language - Java, Python, JavaScript, TypeScript.
+- Front-end development - React, Redux, Webpack, HTML5, CSS3, Material UI.
+- Back-end development - Node.js, Express.js, AWS DynamoDB, SQL, AWS, Docker.
 
-Design, Development of
-- Backend API using Nodejs, AWS Lambda, AWS Dynamodb, AWS S3 and serverless framework.
+## 🔭 I’m currently working as Senior Engineer
 
 <!--
-**NikhilShisode/NikhilShisode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**niksde/niksde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 ✔️
