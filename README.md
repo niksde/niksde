@@ -3,12 +3,15 @@
 ## About
 Experienced software engineer with a background of building scalable systems in the data analytics and AEC industries.
 
+### 🔭 I’m currently working as a Senior Engineer.
+
 ## Skills
 - Coding language - Java, Python, JavaScript, TypeScript.
-- Front-end development - React, Redux, Webpack, HTML5, CSS3, Material UI.
-- Back-end development - Node.js, Express.js, AWS DynamoDB, SQL, AWS, Docker.
+- Front-end development - Angular, React, Redux, Webpack, HTML5, CSS3, Material UI.
+- Back-end development - Spring boot, Node.js, Express.js, AWS, Docker.
+- Database - RDBMS (MySQL), AWS DynamoDB.
 
-## 🔭 I’m currently working as Senior Engineer
+
 
 <!--
 **niksde/niksde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
