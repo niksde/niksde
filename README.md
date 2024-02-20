@@ -1,15 +1,15 @@
 ### Hello there 👋
 
 ## About
-Experienced software engineer with a background of building scalable systems in the data analytics and AEC industries.
+Experienced software engineer with a background of building scalable systems in the data analytics, and AEC industries.
 
 ### 🔭 I’m currently working as a Senior Engineer.
 
 ## Skills
-- Coding language - Java, Python, JavaScript, TypeScript.
-- Front-end development - React, Redux, Webpack, HTML5, CSS3, Material UI.
-- Back-end development - Spring boot, Node.js, Express.js, AWS, Docker.
-- Database - RDBMS (MySQL), AWS DynamoDB.
+- Coding language - Java, TypeScript, JavaScript.
+- Back-end development - Spring Boot, Node.js, Express.js, AWS, Docker.
+- Front-end development - Angular, React, Redux, Webpack, HTML5, CSS3, Material UI.
+- Database - RDBMS (MySQL), DynamoDB.
 
 
 
