@@ -6,7 +6,7 @@ Experienced software engineer with a background of building scalable systems in 
 ### 🔭 I’m currently working as a Senior Engineer.
 
 ## Skills
-- Coding language - Java, TypeScript, JavaScript.
+- Coding language - Java, SQL, TypeScript, JavaScript.
 - Back-end development - Spring Boot, Node.js, Express.js, AWS, Docker.
 - Front-end development - Angular, React, Redux, Webpack, HTML5, CSS3, Material UI.
 - Database - RDBMS (MySQL), DynamoDB.
